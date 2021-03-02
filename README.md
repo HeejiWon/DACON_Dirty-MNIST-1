@@ -18,12 +18,16 @@ framework : TF/Keras(창대, 희지), Pytorch(재훈)
 
 ### Training Details
 #### Optimizer
-- 1
-- 2
+- Adam
+- RAdam
+- AdamW
 #### LR schedule
 - Cosine Annealing with Warm Restarts
+- Piecewise Constant Decaying
+- Performance based Decaying
 #### Loss
 #### Metrics
+#### setting details
 
 <br/>
 
