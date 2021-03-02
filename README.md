@@ -16,7 +16,7 @@ framework : TF/Keras(창대, 희지), Pytorch(재훈)
 
 <br/>
 
-### Training Details
+### Training
 #### Optimizer
 - Adam
 - RAdam
